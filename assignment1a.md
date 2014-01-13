@@ -11,7 +11,8 @@ The southern section of the San Andreas fault has not seen a major event since 1
 
 ### Modeling Details
 
-The geographic region used for the study was a large rectangular volume box 600 km by 300 km by 80 km deep.
+The geographic region used for the study was a large rectangular volume box 600 km by 300 km by 80 km deep. As you can see, it extends all the way from Mexico in the south to the San Joaquin Valley in the north, and the Channel Islands in the west to the Mojave Desert in the east.
+
 ![region](http://visservices.sdsc.edu/projects/scec/terashake/images/map_inlay_location3.jpg)
 
 This was the biggest and most detailed simulation of this region to date---using a 3,000 by 1,500 by 400 mesh, dividing the region into 1.8 billion cubes with a spatial resolution of 200 meters on a side. 
