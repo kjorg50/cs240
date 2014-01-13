@@ -32,6 +32,11 @@ To simulate the propagation of the seismic waves, the researchers used the Anela
 
 Once all the output was generated, a specialized visualization was created using SDSC's [Vista](http://www.sdsc.edu/us/visservices/software/vista/) volume renderer. According to the SDSC website, "VISTA is a multithreaded, platform-independent, scalable and robust volume renderer." The data sets were rendered in both 2D and 3D maps, showing the seismic wave velocity after the simulated earthquakes. The maps can be found [here](http://visservices.sdsc.edu/projects/scec/terashake/2.3/). 
 
+![](http://visservices.sdsc.edu/projects/scec/terashake/2.3/images/TS2.3_vol_vx_headon_1920.png)
+
+
+![](http://visservices.sdsc.edu/projects/scec/terashake/2.3/images/Terashake2.3_surface_Vy_1280.png)
+
 ## My Evaluation
 
 When I looked up this project, some of the web pages seemed a little outdated, and the Vista visualization software is no longer in development by the SDSC. I found [a news article] from 2006 which discusses the project, meaning that this computation was performed about 8 years ago. Putting this in perspective with regards to how quickly new computing hardware is developed, the TeraShake project was a very impressive achievement. Looking back at the Top 500 rankings, the DataStar machine used for this project was ranked as high as [35th in the world in November 2005, and was last seen on the Top 500 list in June 2008](http://www.top500.org/system/174264). Thus, at the time, these TeraShake calculations were being processed on one of the fastest computers in the world. 
